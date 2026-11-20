@@ -30,7 +30,7 @@
     "typesync:ci": "typesync --dry=fail"
   },
   "devDependencies": {
-    "typesync": "^0.14.3",
+    "typesync": "^0.15.0",
     "vite": "^8.2.2",
     "vite-plugin-dts": "^5.1.0",
     "vitest": "^5.0.0"
